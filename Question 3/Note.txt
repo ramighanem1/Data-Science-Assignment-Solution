@@ -1,0 +1,3 @@
+I use this online IDE to write the query
+
+https://www.mycompiler.io/new/sql
